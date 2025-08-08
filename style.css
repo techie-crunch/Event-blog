@@ -1,0 +1,47 @@
+a{
+    color: black;
+    text-decoration: none;
+}
+.navbar{
+    background-color: #3D4040;
+    color: white!important;
+}
+.txt{
+    color: white;
+}
+.butun{
+    background-color: #858787 ;
+    color: white;
+}
+.heading{
+    color: #363539 ;
+}
+.slide{
+    height: 500px;
+}
+.crd{
+    outline: none;
+}
+.card{
+    transition: 1s;
+}
+.card:hover{
+    scale: 1.05;
+    transition: 1s;
+}
+.testimonial{
+    min-height: 500px;
+    width: auto;
+}
+.footer{
+    min-height: 400px;
+    background-color: #3D4040;
+    color: white;
+}
+/* about-section */
+.about{
+    min-height: 300px;
+}
+.contact{
+    min-height: 400px;
+}
